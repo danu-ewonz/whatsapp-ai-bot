@@ -1,1 +1,9 @@
-
+{
+  "name": "free-whatsapp-bot",
+  "version": "1.0.0",
+  "type": "commonjs",
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.7.0",
+    "axios": "^1.6.0"
+  }
+}
